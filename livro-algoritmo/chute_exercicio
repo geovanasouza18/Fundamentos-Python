@@ -1,5 +1,0 @@
-import math
-n = 128
-tentativas = math.log2(n)
-
-print(math.ceil(tentativas))
